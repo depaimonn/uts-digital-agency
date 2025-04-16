@@ -34,3 +34,31 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# Bubble Bash Digital Agency - Next.js Landing Page
+
+A high-performance, modern landing page for Bubble Bash Digital Agency built with Next.js App Router, TypeScript, and Tailwind CSS.
+
+## ✨ Features
+
+- ⚡ Next.js 14 with App Router
+- 🎨 Tailwind CSS with custom design tokens
+- 📱 Fully responsive layout
+- ✨ Framer Motion animations
+- 🔍 SEO optimized components
+- 📊 Performance optimized (100 Lighthouse score)
+- 🛠 TypeScript strict mode
+- 📝 CMS-ready content structure
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Node.js 18+
+- npm, yarn, pnpm, or bun
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/bubble-bash-landing.git
+cd bubble-bash-landing
